@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 2cm;
+    color: azure;
+}
+
+body{
+    background-color: #101010;
+}
